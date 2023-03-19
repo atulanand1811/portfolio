@@ -25,6 +25,7 @@ function Experience() {
                         </div>
                         <div>
                             <p>
+                                {" "}
                                 <p className="font-bold">Metlife- Japan</p>
                                 <li>Role - Java FSE</li>
                                 <li>Responsibility - Developing Microservice architecture application.</li>
@@ -32,7 +33,7 @@ function Experience() {
                             </p>
                         </div>
                         <div className="sm:text-right text-xl font-bold">
-                           
+
                         </div>
                         <div>
                             <p>
@@ -50,6 +51,7 @@ function Experience() {
                         </div>
                         <div>
                             <p>
+                                {" "}
                                 <li>Role - UI Developer</li>
                                 <li>Responsibility - UI Development for Video Conferencing Application.</li>
                                 <li>TechStack - Ionic</li>
