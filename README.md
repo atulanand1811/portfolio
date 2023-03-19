@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Welcome to My Portfolio
+
+Open [https://atulanand-portfolio.netlify.app/](https://atulanand-portfolio.netlify.app/) to view it in your browser.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
