@@ -96,6 +96,8 @@ const Navbar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/in/atul-anand-1681151a1/'
+              target='_blank'
+              rel='noreferrer'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -104,6 +106,8 @@ const Navbar = () => {
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://github.com/atulanand1811'
+              target='_blank'
+              rel='noreferrer'
             >
               Github <FaGithub size={30} />
             </a>

@@ -28,7 +28,8 @@ const Works = () => {
                                 <li>TechStack - ReactJs, ExpressJS, SocketIO</li>
                             </p>
                             <div className='pt-8 text-center'>
-                                <a href='https://frabjous-pie-cab044.netlify.app/'>
+                                <a href='https://frabjous-pie-cab044.netlify.app/' target='_blank'
+                                    rel='noreferrer'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Open APP
                                     </button>
